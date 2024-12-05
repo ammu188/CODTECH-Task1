@@ -30,6 +30,5 @@ express.js
 
 RUN THE APPLICATION
 OUTPUT
-
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/c9db04be-f761-4777-9f17-1a733577ca99">
 
